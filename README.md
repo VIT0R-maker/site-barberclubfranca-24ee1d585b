@@ -1,2 +1,3 @@
-# site-barberclubfranca-24ee1d585b
-Site de @barberclubfranca | managed-site:13fff850-d836-48fb-aa19-ac875df5ce86
+# Site estático
+
+HTML, CSS, JavaScript e SVG autorais. Fotografias e fontes locais em assets/; licenças incluídas. Bibliotecas opcionais em lib/. Publicação GitHub Pages com caminhos relativos. Conteúdo essencial disponível sem JavaScript.
